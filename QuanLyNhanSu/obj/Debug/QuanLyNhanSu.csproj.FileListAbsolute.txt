@@ -1,0 +1,205 @@
+D:\PHAN_MEM\thực tập C#\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\PHAN_MEM\thực tập C#\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\PHAN_MEM\thực tập C#\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\PHAN_MEM\thực tập C#\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\PHAN_MEM\thực tập C#\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe.config
+D:\PHAN_MEM\thực tập C#\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe
+D:\PHAN_MEM\thực tập C#\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.pdb
+D:\PHAN_MEM\thực tập C#\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\PHAN_MEM\thực tập C#\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\PHAN_MEM\thực tập C#\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\PHAN_MEM\thực tập C#\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\PHAN_MEM\thực tập C#\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+D:\PHAN_MEM\thực tập C#\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+D:\PHAN_MEM\thực tập C#\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\PHAN_MEM\thực tập C#\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\PHAN_MEM\thực tập C#\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\EnvDTE.dll
+D:\PHAN_MEM\thực tập C#\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\stdole.dll
+D:\PHAN_MEM\thực tập C#\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PHAN_MEM\thực tập C#\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PHAN_MEM\thực tập C#\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PHAN_MEM\thực tập C#\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PHAN_MEM\thực tập C#\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PHAN_MEM\thực tập C#\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PHAN_MEM\thực tập C#\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PHAN_MEM\thực tập C#\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PHAN_MEM\thực tập C#\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PHAN_MEM\thực tập C#\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PHAN_MEM\thực tập C#\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\PHAN_MEM\thực tập C#\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\PHAN_MEM\thực tập C#\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\PHAN_MEM\thực tập C#\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\PHAN_MEM\thực tập C#\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\PHAN_MEM\thực tập C#\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\PHAN_MEM\thực tập C#\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\PHAN_MEM\thực tập C#\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\PHAN_MEM\thực tập C#\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\PHAN_MEM\thực tập C#\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\PHAN_MEM\thực tập C#\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\PHAN_MEM\thực tập C#\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\PHAN_MEM\thực tập C#\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\PHAN_MEM\thực tập C#\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\PHAN_MEM\thực tập C#\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\PHAN_MEM\thực tập C#\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\PHAN_MEM\thực tập C#\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\PHAN_MEM\thực tập C#\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\PHAN_MEM\thực tập C#\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\PHAN_MEM\thực tập C#\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\PHAN_MEM\thực tập C#\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.AssemblyReference.cache
+D:\PHAN_MEM\thực tập C#\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.SuggestedBindingRedirects.cache
+D:\PHAN_MEM\thực tập C#\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmChucVu.resources
+D:\PHAN_MEM\thực tập C#\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmDuAn.resources
+D:\PHAN_MEM\thực tập C#\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmMain.resources
+D:\PHAN_MEM\thực tập C#\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmLogin.resources
+D:\PHAN_MEM\thực tập C#\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmNhanVien.resources
+D:\PHAN_MEM\thực tập C#\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmPhongBan.resources
+D:\PHAN_MEM\thực tập C#\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmTaiKhoan.resources
+D:\PHAN_MEM\thực tập C#\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.Properties.Resources.resources
+D:\PHAN_MEM\thực tập C#\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.GenerateResource.cache
+D:\PHAN_MEM\thực tập C#\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.CoreCompileInputs.cache
+D:\PHAN_MEM\thực tập C#\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.CopyComplete
+D:\PHAN_MEM\thực tập C#\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.exe
+D:\PHAN_MEM\thực tập C#\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.pdb
+D:\PHAN_MEM\thực tập C#\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\System.Data.SqlClient.dll
+D:\PHAN_MEM\thực tập C#\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\System.Data.SqlClient.xml
+D:\PHAN_MEM\thực tập C#\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\Microsoft.SqlServer.Server.dll
+D:\PHAN_MEM\thực tập C#\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\Microsoft.SqlServer.Server.pdb
+D:\PHAN_MEM\thực tập C#\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\Microsoft.SqlServer.Server.xml
+D:\PHAN_MEM\thực tập C#\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmTimkiem.resources
+D:\PHAN_MEM\thực tập C#\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmThongke.resources
+C:\Users\ADMIN\Downloads\Compressed\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\ADMIN\Downloads\Compressed\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\ADMIN\Downloads\Compressed\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\ADMIN\Downloads\Compressed\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\ADMIN\Downloads\Compressed\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe.config
+C:\Users\ADMIN\Downloads\Compressed\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe
+C:\Users\ADMIN\Downloads\Compressed\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.pdb
+C:\Users\ADMIN\Downloads\Compressed\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\ADMIN\Downloads\Compressed\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\ADMIN\Downloads\Compressed\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\ADMIN\Downloads\Compressed\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\ADMIN\Downloads\Compressed\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\ADMIN\Downloads\Compressed\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\ADMIN\Downloads\Compressed\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\ADMIN\Downloads\Compressed\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\Microsoft.SqlServer.Server.dll
+C:\Users\ADMIN\Downloads\Compressed\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\ADMIN\Downloads\Compressed\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\System.Data.SqlClient.dll
+C:\Users\ADMIN\Downloads\Compressed\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\EnvDTE.dll
+C:\Users\ADMIN\Downloads\Compressed\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\stdole.dll
+C:\Users\ADMIN\Downloads\Compressed\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\Microsoft.SqlServer.Server.pdb
+C:\Users\ADMIN\Downloads\Compressed\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\Microsoft.SqlServer.Server.xml
+C:\Users\ADMIN\Downloads\Compressed\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\System.Data.SqlClient.xml
+C:\Users\ADMIN\Downloads\Compressed\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\Downloads\Compressed\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\Downloads\Compressed\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\Downloads\Compressed\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\Downloads\Compressed\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\Downloads\Compressed\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\Downloads\Compressed\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\Downloads\Compressed\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\Downloads\Compressed\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\Downloads\Compressed\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\Downloads\Compressed\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\Downloads\Compressed\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\Downloads\Compressed\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\Downloads\Compressed\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\Downloads\Compressed\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\Downloads\Compressed\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\Downloads\Compressed\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\Downloads\Compressed\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\Downloads\Compressed\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\Downloads\Compressed\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\Downloads\Compressed\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\ADMIN\Downloads\Compressed\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\ADMIN\Downloads\Compressed\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\ADMIN\Downloads\Compressed\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\ADMIN\Downloads\Compressed\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\ADMIN\Downloads\Compressed\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\ADMIN\Downloads\Compressed\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\ADMIN\Downloads\Compressed\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\ADMIN\Downloads\Compressed\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\ADMIN\Downloads\Compressed\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\ADMIN\Downloads\Compressed\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\Compressed\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmChucVu.resources
+C:\Users\ADMIN\Downloads\Compressed\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmDuAn.resources
+C:\Users\ADMIN\Downloads\Compressed\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmMain.resources
+C:\Users\ADMIN\Downloads\Compressed\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmLogin.resources
+C:\Users\ADMIN\Downloads\Compressed\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmNhanVien.resources
+C:\Users\ADMIN\Downloads\Compressed\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmPhongBan.resources
+C:\Users\ADMIN\Downloads\Compressed\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmTaiKhoan.resources
+C:\Users\ADMIN\Downloads\Compressed\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmThongke.resources
+C:\Users\ADMIN\Downloads\Compressed\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmTimkiem.resources
+C:\Users\ADMIN\Downloads\Compressed\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.Properties.Resources.resources
+C:\Users\ADMIN\Downloads\Compressed\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.GenerateResource.cache
+C:\Users\ADMIN\Downloads\Compressed\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\Compressed\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.CopyComplete
+C:\Users\ADMIN\Downloads\Compressed\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.exe
+C:\Users\ADMIN\Downloads\Compressed\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.pdb
+D:\Git File\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Git File\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Git File\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Git File\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Git File\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe.config
+D:\Git File\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe
+D:\Git File\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.pdb
+D:\Git File\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Git File\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Git File\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Git File\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Git File\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+D:\Git File\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+D:\Git File\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Git File\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\Microsoft.SqlServer.Server.dll
+D:\Git File\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Git File\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\System.Data.SqlClient.dll
+D:\Git File\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\EnvDTE.dll
+D:\Git File\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\stdole.dll
+D:\Git File\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\Microsoft.SqlServer.Server.pdb
+D:\Git File\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\Microsoft.SqlServer.Server.xml
+D:\Git File\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\System.Data.SqlClient.xml
+D:\Git File\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Git File\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Git File\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Git File\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Git File\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Git File\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Git File\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Git File\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Git File\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Git File\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Git File\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Git File\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Git File\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Git File\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Git File\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Git File\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Git File\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Git File\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Git File\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Git File\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Git File\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Git File\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Git File\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Git File\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Git File\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Git File\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Git File\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Git File\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Git File\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Git File\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Git File\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.AssemblyReference.cache
+D:\Git File\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.Properties.Resources.resources
+D:\Git File\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.GenerateResource.cache
+D:\Git File\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.CoreCompileInputs.cache
+D:\Git File\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNh.83172EC3.Up2Date
+D:\Git File\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.exe
+D:\Git File\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.pdb
+D:\Git File\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.NhanVien.resources
+D:\Git File\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ChucVu.resources
+D:\Git File\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.DuAn.resources
+D:\Git File\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.Main.resources
+D:\Git File\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.Login.resources
+D:\Git File\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.PhongBan.resources
+D:\Git File\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.TaiKhoan.resources
+D:\Git File\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ThongKe.resources
+D:\Git File\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.TimKiem.resources
